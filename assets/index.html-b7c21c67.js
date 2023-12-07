@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3fbe2dd6","path":"/%E8%B5%84%E6%96%99/%E5%85%AC%E5%8F%B8%E8%B5%84%E6%96%99/","title":"公司资料","lang":"zh-CN","frontmatter":{"title":"公司资料","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
