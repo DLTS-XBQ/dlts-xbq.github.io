@@ -1,0 +1,1 @@
+import{_,o as t,c as a,a as e,b as c}from"./app-b853f911.js";const o={},r=e("h1",{id:"字典表2",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#字典表2","aria-hidden":"true"},"#"),c(" 字典表2")],-1),s=[r];function n(d,i){return t(),a("div",null,s)}const l=_(o,[["render",n],["__file","字典表设计意义.html.vue"]]);export{l as default};
