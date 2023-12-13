@@ -1,1 +1,0 @@
-import{_ as t,o as a,c,a as e,b as _}from"./app-7676430d.js";const o={},r=e("h1",{id:"字典表",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#字典表","aria-hidden":"true"},"#"),_(" 字典表")],-1),s=[r];function n(d,i){return a(),c("div",null,s)}const l=t(o,[["render",n],["__file","字典表.html.vue"]]);export{l as default};
