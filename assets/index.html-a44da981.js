@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-e8a0ef00","path":"/%E8%B5%84%E6%96%99/%E5%85%AC%E5%8F%B8%E8%B5%84%E6%96%99/%E5%A8%81%E5%AF%8C%E9%80%9A/","title":"威富通","lang":"zh-CN","frontmatter":{"title":"威富通","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
